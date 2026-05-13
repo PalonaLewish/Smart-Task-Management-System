@@ -1,0 +1,20 @@
+# Web Framework & Server
+Flask==3.0.2
+gunicorn==21.2.0
+
+# Database & ORM
+psycopg2-binary==2.9.9
+Flask-SQLAlchemy==3.1.1
+
+# Real-Time Communications
+Flask-SocketIO==5.3.6
+python-socketio==5.11.0
+python-engineio==4.9.0
+
+# Analytics & Data Processing
+pandas==2.2.1
+numpy==1.26.4
+
+# Environment & Utilities
+python-dotenv==1.0.1
+Flask-Bcrypt==1.0.1
